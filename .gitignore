@@ -1,13 +1,17 @@
 # Python
-.venv/
 __pycache__/
 *.pyc
+.venv/
+venv/
 
-# Automation artifacts
+# Automation / browser
 chrome_profile/
 output/
 *.zip
 
-# Environment & tools
+# Env / logs
 .env
+*.log
+
+# IDE
 .vscode/
