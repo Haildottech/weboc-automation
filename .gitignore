@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Automation artifacts
+chrome_profile/
+output/
+*.zip
+
+# Environment & tools
+.env
+.vscode/
